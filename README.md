@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Cybersecurity Engineer | ML-Based Threat Detection | ML Engineer for Cybersecurity | Phishing Detection | OpenCV & Tensor | FlowDesigning Intelligent Threat Detection Systems
 
 
